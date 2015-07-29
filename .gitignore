@@ -7,7 +7,6 @@ obj
 # Ignore .tar.gz
 
 # ignore #
-src/cpp/*#*
 include/*#*
 src/test/*#*
 src/trash
@@ -17,7 +16,3 @@ src/trash
 
 # Ignore doc directory
 doc/
-
-# Ignore shells for fast command interface
-train.sh
-predict.sh
