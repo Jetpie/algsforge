@@ -1,4 +1,4 @@
-// sort algorithms
+// data structure - linked list
 //
 // @author: Bingqing Qu
 //
@@ -6,10 +6,10 @@
 //
 // @license: See LICENSE at root directory
 
-#ifndef ALGSFORGE_SORT_H_
-#define ALGSFORGE_SORT_H_
+#ifndef ALGSFORGE_LINKED_LIST_H_
+#define ALGSFORGE_LINKED_LIST_H_
 
 
 
 
-#endif // ALGSFORGE_SORT_H_
+#endif // ALGSFORGE_LINKED_LIST_H_
