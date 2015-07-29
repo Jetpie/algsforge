@@ -1,0 +1,23 @@
+# Ignore the build dirs
+obj
+
+# Ignore all build parts
+# bin/*
+
+# Ignore .tar.gz
+
+# ignore #
+src/cpp/*#*
+include/*#*
+src/test/*#*
+src/trash
+
+# Ignore Mac specific files
+.DS_Store
+
+# Ignore doc directory
+doc/
+
+# Ignore shells for fast command interface
+train.sh
+predict.sh
